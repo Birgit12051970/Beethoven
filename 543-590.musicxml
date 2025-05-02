@@ -8,7 +8,7 @@
     <rights>for rehearsal only</rights>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2025-04-13</encoding-date>
+      <encoding-date>2025-05-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
@@ -78,7 +78,7 @@
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
-        <volume>78.7402</volume>
+        <volume>54.3307</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
@@ -92,7 +92,7 @@
       <midi-instrument id="P2-I1">
         <midi-channel>2</midi-channel>
         <midi-program>53</midi-program>
-        <volume>78.7402</volume>
+        <volume>55.1181</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
@@ -106,7 +106,7 @@
       <midi-instrument id="P3-I1">
         <midi-channel>3</midi-channel>
         <midi-program>53</midi-program>
-        <volume>78.7402</volume>
+        <volume>54.3307</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
@@ -120,7 +120,7 @@
       <midi-instrument id="P4-I1">
         <midi-channel>4</midi-channel>
         <midi-program>53</midi-program>
-        <volume>78.7402</volume>
+        <volume>54.3307</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
@@ -135,7 +135,7 @@
       <midi-instrument id="P5-I1">
         <midi-channel>5</midi-channel>
         <midi-program>1</midi-program>
-        <volume>78.7402</volume>
+        <volume>54.3307</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
@@ -2439,10 +2439,11 @@
         </note>
       </measure>
     <measure number="13" width="157.87">
-      <note default-x="18.88" default-y="-164.28">
+      <note default-x="18.88" default-y="-174.28">
         <pitch>
-          <step>D</step>
-          <octave>5</octave>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
           </pitch>
         <duration>3</duration>
         <voice>1</voice>
@@ -2454,10 +2455,11 @@
           <text>ne</text>
           </lyric>
         </note>
-      <note default-x="84.40" default-y="-164.28">
+      <note default-x="84.40" default-y="-174.28">
         <pitch>
-          <step>D</step>
-          <octave>5</octave>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
           </pitch>
         <duration>3</duration>
         <voice>1</voice>
